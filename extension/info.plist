@@ -28,7 +28,7 @@ asana {query}</string>
 	<key>growloutputsticky</key>
 	<false/>
 	<key>keyword</key>
-	<string>a</string>
+	<string>asana</string>
 	<key>logging</key>
 	<false/>
 	<key>multifileargs</key>
@@ -38,7 +38,7 @@ asana {query}</string>
 	<key>silent</key>
 	<true/>
 	<key>subtitle</key>
-	<string>Options: @ - assignee, ~ - due date, # - project</string>
+	<string>Example: asana workspace/project do something @someone due tomorrows</string>
 	<key>title</key>
 	<string>Asana</string>
 </dict>
